@@ -4,5 +4,43 @@ html{
 body{
     margin: 0px;
     min-height: 100vh;
-    background-color: aquamarine;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M692.87 463.57a4.52 4.52 0 1 0 8.98 1.1z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M1009.92 165.04L1031.06 165.04L1031.06 186.18L1009.92 186.18z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M332.89 367.93 a44.92 44.92 0 1 0 89.84 0 a44.92 44.92 0 1 0 -89.84 0z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M819.79 442.58L821.42 442.58L821.42 463.91L819.79 463.91z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M846.27 548.4 a43.91 43.91 0 1 0 87.82 0 a43.91 43.91 0 1 0 -87.82 0z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M545.55 23.63a21.46 21.46 0 1 0 22.56-36.51z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M1148.57 339.19 a4.27 4.27 0 1 0 8.54 0 a4.27 4.27 0 1 0 -8.54 0z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M680.8 98.22a10.86 10.86 0 1 0 21.7 1.02z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M880.01 498.49L927.59 498.49L927.59 546.07L880.01 546.07z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M1207.69 242.76L1225.6 242.76L1225.6 260.67L1207.69 260.67z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1329.21 237.81L1372.53 237.81L1372.53 264.04L1329.21 264.04z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M480.66 319.34 a3.59 3.59 0 1 0 7.18 0 a3.59 3.59 0 1 0 -7.18 0z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M676.11 417.12a24.59 24.59 0 1 0-19.52 45.14z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M1222.06 420.51 a17.18 17.18 0 1 0 34.36 0 a17.18 17.18 0 1 0 -34.36 0z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M327.34 408.94L377.61 408.94L377.61 459.21L327.34 459.21z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M1187.4 251.91L1214.7 251.91L1214.7 305.2L1187.4 305.2z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M552.48 199.88L586.54 199.88L586.54 210.21L552.48 210.21z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1404.47 40.85L1439.74 40.85L1439.74 76.12L1404.47 76.12z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M584.47 232.37L592.8 232.37L592.8 240.7L584.47 240.7z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M298.22 340.99L325.63 340.99L325.63 368.4L298.22 368.4z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M1283.83 108.18a34.96 34.96 0 1 0 9.88 69.22z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M328.69 46.25L382.24 46.25L382.24 92.63L328.69 92.63z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M615.43 317.54 a50.16 50.16 0 1 0 100.32 0 a50.16 50.16 0 1 0 -100.32 0z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M208.95 12.71a37.97 37.97 0 1 0-71.19 26.42z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M529.99 130.36L576.95 130.36L576.95 177.32L529.99 177.32z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M1283.19 263.78L1310.57 263.78L1310.57 291.16L1283.19 291.16z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M-31.92 348.13 a53.14 53.14 0 1 0 106.28 0 a53.14 53.14 0 1 0 -106.28 0z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M474.73 10.96 a18.49 18.49 0 1 0 36.98 0 a18.49 18.49 0 1 0 -36.98 0z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M679.2 432.23a30.53 30.53 0 1 0 11.38 59.99z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M1332.71 406.11 a24.04 24.04 0 1 0 48.08 0 a24.04 24.04 0 1 0 -48.08 0z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M738.13 373.4L770.61 373.4L770.61 423.24L738.13 423.24z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M915.78 254.5 a5.54 5.54 0 1 0 11.08 0 a5.54 5.54 0 1 0 -11.08 0z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M1195.03 426.4 a4.51 4.51 0 1 0 9.02 0 a4.51 4.51 0 1 0 -9.02 0z' stroke='%23d3b714'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+    color: rgb(9, 9, 9);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.qoute-container{
+width: auto;
+max-width: 900px;
+padding: 20px 30px;
+border-radius: 10px;
+background-color: rgba(255,255,255,0.8);
+box-shadow:0 10px 10px 10px ;
+
+}
+.qoute-text{
+font-size: 2.75rem;
+}
+.fa-quote-left{
+    font-size: 4rem;
+}
+.qoute-author{
+    margin-top: 15px;
+    font-size: 2rem;
+    font-weight: 400;
+    font-style: italic;
+}
+
+/*media query*/
+@media screen and (max-width: 1000px) {
+    .qoute-container{
+        margin: auto 10px;
+    }
+    .qoute-text{
+        font-size: 2.5rem;
+    }
 }
